@@ -1,12 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Gabriel 🏝️</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Anacleto </h1>
 <h3 align="center">I'm an Information Systems Student</h3>
 <br>
 
 - 📚 I am currently graduating from **IFMG - OURO BRANCO**
-
 - 🌱 I'm currently learning **Java**
-
 - 💬 Contact me 
 
 <p align="left">
