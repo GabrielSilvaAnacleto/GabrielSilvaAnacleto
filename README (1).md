@@ -14,8 +14,7 @@
   <a href="mailto:gabrielanacleto74@outlook.com"><img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬-nl-🐟-nl-🐠-nl-🐡&fontSize=50&fontAlignY=35&fontAlignY=65&fontAlignY=75&fontAlignY=70&fontAlign=50&fontAlign=8&fontAlign=25&fontAlign=85&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
+<img src="https://github.com/GabrielSilvaAnacleto/perfilgit/blob/main/perfilgithub.gif">
 </p> 
 <!--
 **GabrielSilvaAnacleto/GabrielSilvaAnacleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
