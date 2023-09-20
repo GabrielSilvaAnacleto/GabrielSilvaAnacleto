@@ -12,7 +12,7 @@
   <a href="mailto:gabrielanacleto74@outlook.com"><img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
 </p>
 <p align="center">
-<img src="https://github.com/GabrielSilvaAnacleto/perfilgit/blob/main/perfilgithub.gif?raw=true">
+<img src="https://github.com/GabrielSilvaAnacleto/perfilgit/blob/main/gifperfil.gif?raw=true">
 </p> 
 <!--
 **GabrielSilvaAnacleto/GabrielSilvaAnacleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
